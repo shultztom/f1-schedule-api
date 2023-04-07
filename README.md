@@ -9,5 +9,5 @@ Serves from CSV
 
 ### Deployments
 
-Deployed on Cloud Run: https://f1-schedule-api-kekredzema-uc.a.run.app/
+Deployed on k8 Cluster: https://f1-schedule-api.shultzlab.com
 
